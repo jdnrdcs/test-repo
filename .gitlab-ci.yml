@@ -1,0 +1,4 @@
+include:
+  - project: 'cyberset/gitlab-pipelines'
+    ref: develop
+    file: 'build_docker.yml'
